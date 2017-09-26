@@ -10,10 +10,6 @@
 
 ### Sample images from the categories covered by the MCIndoor20000
 
-<p align="justify">
-The <strong>bigNN</strong> software architectural model is shown in includes the following figure.  
-</p>
-
 
 ![alt text](https://github.com/bircatmcri/MCIndoor20000/blob/master/MCIndoor20000.png  "MCIndoor20000")
 </p>
