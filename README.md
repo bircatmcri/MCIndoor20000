@@ -15,7 +15,7 @@ The <strong>bigNN</strong> software architectural model is shown in includes the
 </p>
 
 
-![alt text](https://github.com/bircatmcri/bigNN/blob/master/bigNN%20architecture.png  "bigNN software architectural model")
+![alt text](https://github.com/bircatmcri/MCIndoor20000/blob/master/MCIndoor20000.png  "MCIndoor20000")
 </p>
 
 ### Collaborators:
