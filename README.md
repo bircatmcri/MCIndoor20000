@@ -8,6 +8,16 @@
 + <p align="justify">To provide a comprehensive image classification repository, the current dataset covers several object model variations involved from the perspectives of computer vision and deep learning strategies. The variations include viewpoint variation, intra-class variation, rotation, noisy conditions (e.g., Gaussian, Poisson), and occlusion. </p>
 + <p align="justify">The <strong>MCIndoor20000</strong> dataset assists reproducible research and allows rapid application development (RAD) and fast prototyping to the deep learning and computer vision community. </p>
 
+### Sample images from the categories covered by the MCIndoor20000
+
+<p align="justify">
+The <strong>bigNN</strong> software architectural model is shown in includes the following figure.  
+</p>
+
+
+![alt text](https://github.com/bircatmcri/bigNN/blob/master/bigNN%20architecture.png  "bigNN software architectural model")
+</p>
+
 ### Collaborators:
 + Fereshteh S. Bashiri
 + Eric LaRose
