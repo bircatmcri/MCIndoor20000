@@ -8,3 +8,11 @@
 + <p align="justify">To provide a comprehensive image classification repository, the current dataset covers several object model variations involved from the perspectives of computer vision and deep learning strategies. The variations include viewpoint variation, intra-class variation, rotation, noisy conditions (e.g., Gaussian, Poisson), and occlusion. </p>
 + <p align="justify">The <strong>MCIndoor20000</strong> dataset assists reproducible research and allows rapid application development (RAD) and fast prototyping to the deep learning and computer vision community. </p>
 
+### Collaborators:
++ Fereshteh S. Bashiri
++ Eric LaRose
++ Peggy Peissig
++ Ahmad P. Tafti
+
+### Acknowledgements
+<p align="justify">We wish to thank <strong>Marshfield Clinic</strong> which allowed us to collect the <strong>MCIndoor20000</strong> dataset. Our special thanks goes to Daniel Wall and Anne Nikolai at <strong>Marshfield Clinic Research Institute<strong> (https://www.marshfieldresearch.org/). We appreciate their great help and contributions in collecting the dataset and preparing the current paper. Fereshteh S. Bashiri would like to thank the <strong>Summer Research Internship Program (SRIP)</strong> (http://www.marshfieldresearch.org/srip) at <strong>Marshfield Clinic Research Institute (MCRI)</strong> for financial support.</p>
