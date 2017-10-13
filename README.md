@@ -28,7 +28,7 @@
 
 ### Publications:
 
-<p align="justify">The <strong>MCIndoor20000</strong> dataset is fully explained in the following paper. Please cite the following paper, if you use the dataset for publishable research:
+<p align="justify">The <strong>MCIndoor20000</strong> dataset is fully explained in the following paper. Any publication using the database should reference to:
 <p align="justify">
 <strong>[1]</strong> Fereshteh S. Bashiri, Eric LaRose, Peggy Peissig, Ahmad P. Tafti. 2017. <i>MCIndoor20000: a fully-labeled image dataset to advance indoor objects detection</i>. <strong>Data in Brief.</strong> (Under Review)
 </p>
