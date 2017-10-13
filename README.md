@@ -1,6 +1,6 @@
 # MCIndoor20000
 ## a fully-labeled image dataset to advance indoor objects detection
-<p align="justify">A fully-labeled image dataset provides a unique resource for reproducible research inquiries and data analyses in several computational fields, such as computer vision, machine learning and deep learning machine intelligence. With the present contribution, a large-scale fully-labeled image dataset is provided, and made publicly and freely available to the research community. The current dataset entitled <strong>MCIndoor20000</strong> includes more than 20,000 digital images from three different indoor object categories, including <strong>doors</strong>, <strong>stairs</strong>, and <strong>hospital signs</strong>. To make a comprehensive dataset regarding current challenges exist in indoor objects modeling, we cover a multiple set of variations in images, such as rotation, intra-class variation plus various noise models. The current dataset is freely and publicly available at https://github.com/bircatmcri/MCIndoor20000.</p>
+<p align="justify">A fully-labeled image dataset provides a unique resource for reproducible research inquiries and data analyses in several computational fields, such as computer vision, machine learning and deep learning machine intelligence. With the present contribution, a large-scale fully-labeled image dataset is provided, and made publicly and freely available to the research community. The current dataset entitled <strong>MCIndoor20000</strong> includes more than 20,000 digital images from three different indoor object categories, including <strong>doors</strong>, <strong>stairs</strong>, and <strong>hospital signs</strong>. To make a comprehensive dataset regarding current challenges exist in indoor objects modeling, we cover a multiple set of variations in images, such as rotation, intra-class variation plus various noise models. The current dataset is freely and publicly available for any academic, educational, and research purposes.</p>
 
 ### Value of the Data
 + <p align="justify">The <strong>MCIndoor20000</strong> dataset collected in <strong>Marshfield Clinic</strong> (https://www.marshfieldclinic.org/), and it presents various digital images of three guideline indoor objects, including clinic signs, doors and stairs.</p>
@@ -25,3 +25,10 @@
 
 ### Acknowledgements
 <p align="justify">We wish to thank <strong>Marshfield Clinic</strong> which allowed us to collect the <strong>MCIndoor20000</strong> dataset. Our special thanks goes to Daniel Wall and Anne Nikolai at <strong>Marshfield Clinic Research Institute</strong> (https://www.marshfieldresearch.org/). We appreciate their great help and contributions in collecting the dataset and preparing the current paper. Fereshteh S. Bashiri would like to thank the <strong>Summer Research Internship Program (SRIP)</strong> (http://www.marshfieldresearch.org/srip) at <strong>Marshfield Clinic Research Institute (MCRI)</strong> for financial support.</p>
+
+### Publications:
+
+The <strong>MCIndoor20000</strong> dataset is fully explained in the following paper. Please cite the following paper, if you use the dataset for publishable research:
+<p align="justify">
+<strong>[1]</strong> Fereshteh S. Bashiri, Eric LaRose, Peggy Peissig, Ahmad P. Tafti. 2017. <i>MCIndoor20000: a fully-labeled image dataset to advance indoor objects detection</i>. <strong>Data in Brief.</strong> (Under Review)
+</p>
