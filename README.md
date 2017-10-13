@@ -4,25 +4,25 @@
 
 ### Links to the data
 <p><strong>Original Photos</strong></p>
-<p>Doors - http://mcindoor20000.mfldclin.edu/1_Original/Doors.zip</br>
-Signs - http://mcindoor20000.mfldclin.edu/1_Original/Sign.zip</br>
-Stairs - http://mcindoor20000.mfldclin.edu/1_Original/Stairs.zip</p>
+<p><a href="http://mcindoor20000.mfldclin.edu/1_Original/Doors.zip" target="_blank">Doors</a></br>
+<a href="http://mcindoor20000.mfldclin.edu/1_Original/Sign.zip" target="_blank">Signs</a></br>
+<a href="http://mcindoor20000.mfldclin.edu/1_Original/Stairs.zip" target="_blank">Stairs</a></p>
 <p><strong>Gaussian Filter 1</strong></p>
-<p>Doors - http://mcindoor20000.mfldclin.edu/2_Gauss1/Doors.zip</br>
-Signs - http://mcindoor20000.mfldclin.edu/2_Gauss1/Sign.zip</br>
-Stairs - http://mcindoor20000.mfldclin.edu/2_Gauss1/Stairs.zip</p>
+<p><a href="http://mcindoor20000.mfldclin.edu/2_Gauss1/Doors.zip" target="_blank">Doors</a></br>
+<a href="http://mcindoor20000.mfldclin.edu/2_Gauss1/Sign.zip" target="_blank">Signs</a></br>
+<a href="http://mcindoor20000.mfldclin.edu/2_Gauss1/Stairs.zip" target="_blank">Stairs</a></p>
 <p><strong>Gaussian Filter 2</strong></p>
-<p>Doors - http://mcindoor20000.mfldclin.edu/3_Gauss2/Doors.zip</br>
-Signs - http://mcindoor20000.mfldclin.edu/3_Gauss2/Sign.zip</br>
-Stairs - http://mcindoor20000.mfldclin.edu/3_Gauss2/Stairs.zip</p>
+<p><a href="http://mcindoor20000.mfldclin.edu/3_Gauss2/Doors.zip" target="_blank">Doors</a></br>
+<a href="http://mcindoor20000.mfldclin.edu/3_Gauss2/Sign.zip" target="_blank">Signs</a></br>
+<a href="http://mcindoor20000.mfldclin.edu/3_Gauss2/Stairs.zip" target="_blank">Stairs</a></p>
 <p><strong>Poisson Filter</strong></p>
-<p>Doors - http://mcindoor20000.mfldclin.edu/4_Poisson/Doors.zip</br>
-Signs - http://mcindoor20000.mfldclin.edu/4_Poisson/Sign.zip</br>
-Stairs - http://mcindoor20000.mfldclin.edu/4_Poisson/Stairs.zip</p>
+<p><a href="http://mcindoor20000.mfldclin.edu/4_Poisson/Doors.zip" target="_blank">Doors</a></br>
+<a href="http://mcindoor20000.mfldclin.edu/4_Poisson/Sign.zip" target="_blank">Signs</a></br>
+<a href="http://mcindoor20000.mfldclin.edu/4_Poisson/Stairs.zip" target="_blank">Stairs</a></p>
 <p><strong>Salt and Pepper Filter</strong></p>
-<p>Doors - http://mcindoor20000.mfldclin.edu/5_SaltAndPepper/Doors.zip</br>
-Signs - http://mcindoor20000.mfldclin.edu/5_SaltAndPepper/Sign.zip</br>
-Stairs - http://mcindoor20000.mfldclin.edu/5_SaltAndPepper/Stairs.zip</p>
+<p><a href="http://mcindoor20000.mfldclin.edu/5_SaltAndPepper/Doors.zip" target="_blank">Doors</a></br>
+<a href="http://mcindoor20000.mfldclin.edu/5_SaltAndPepper/Sign.zip" target="_blank">Signs</a></br>
+<a href="http://mcindoor20000.mfldclin.edu/5_SaltAndPepper/Stairs.zip" target="_blank">Stairs</a></p>
 <p><strong>Rotated Images</strong></p>
 <p>Doors - Coming Soon</br>
 Signs - Coming Soon</br>
