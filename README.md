@@ -1,5 +1,20 @@
-# NOTICE
-<p>Due to internal security concerns, these images will no longer be hosted by MCRI, and as such will not long be available for download. We apologize for any inconvenience.</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+# NOTICE - Data set no longer available for download
+<p>Due to network security concerns, these images will no longer be hosted by MCRI, and as such will not be available for download. We apologize for any inconvenience.</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 # MCIndoor20000
 ## a fully-labeled image dataset to advance indoor objects detection
